@@ -8,7 +8,7 @@
 
 - 个人微信公众号
 
-![wechat](/home/light/gitrepo/Up-Up-MySQL/img/wechat.jpg)
+![wechat](./img/wechat.jpg)
 
 ## 1.创建数据库
 
