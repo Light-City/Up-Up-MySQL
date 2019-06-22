@@ -12,6 +12,12 @@
 
 [2019.6.23 更新内容直戳点 ](./day1_dataset.md)
 
+## 3.关于我
 
+- 个人网站
 
+  https://light-city.club
 
+- 个人微信公众号
+
+![wechat](./img/wechat.jpg)
