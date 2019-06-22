@@ -1,5 +1,15 @@
 # Day1-数据库创建与表创建及一些查询
 
+## 0.关于我
+
+- 个人网站
+
+  https://light-city.club
+
+- 个人微信公众号
+
+![wechat](/home/light/gitrepo/Up-Up-MySQL/img/wechat.jpg)
+
 ## 1.创建数据库
 
 ```mysql
